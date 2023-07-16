@@ -1,0 +1,184 @@
+Country,Year,Life expectancy ,Schooling
+Afghanistan,2015,65,10.1
+Albania,2015,77.8,14.2
+Algeria,2015,75.6,14.4
+Angola,2015,52.4,11.4
+Antigua and Barbuda,2015,76.4,13.9
+Argentina,2015,76.3,17.3
+Armenia,2015,74.8,12.7
+Australia,2015,82.8,20.4
+Austria,2015,81.5,15.9
+Azerbaijan,2015,72.7,12.7
+Bahamas,2015,76.1,12.6
+Bahrain,2015,76.9,14.5
+Bangladesh,2015,71.8,10.2
+Barbados,2015,75.5,15.3
+Belarus,2015,72.3,15.6
+Belgium,2015,81.1,16.6
+Belize,2015,71,12.8
+Benin,2015,60,10.7
+Bhutan,2015,69.8,12.5
+Bolivia (Plurinational State of),2015,77,13.8
+Bosnia and Herzegovina,2015,77.4,14.2
+Botswana,2015,65.7,12.6
+Brazil,2015,75,15.2
+Brunei Darussalam,2015,77.7,14.9
+Bulgaria,2015,74.5,15
+Burkina Faso,2015,59.9,7.7
+Burundi,2015,59.6,10.6
+Côte d'Ivoire,2015,53.3,
+Cabo Verde,2015,73.3,13.5
+Cambodia,2015,68.7,10.9
+Cameroon,2015,57.3,10.4
+Canada,2015,82.2,16.3
+Central African Republic,2015,52.5,7.1
+Chad,2015,53.1,7.3
+Chile,2015,85,16.3
+China,2015,76.1,13.5
+Colombia,2015,74.8,13.6
+Comoros,2015,63.5,11.1
+Congo,2015,64.7,11.1
+Costa Rica,2015,79.6,14.2
+Croatia,2015,78,15.3
+Cuba,2015,79.1,13.9
+Cyprus,2015,85,14.3
+Czechia,2015,78.8,
+Democratic People's Republic of Korea,2015,76,
+Democratic Republic of the Congo,2015,59.8,
+Denmark,2015,86,19.2
+Djibouti,2015,63.5,6.3
+Dominican Republic,2015,73.9,13.2
+Ecuador,2015,76.2,14
+Egypt,2015,79,13.1
+El Salvador,2015,73.5,13.2
+Equatorial Guinea,2015,58.2,9.2
+Eritrea,2015,64.7,5
+Estonia,2015,77.6,16.5
+Ethiopia,2015,64.8,8.4
+Fiji,2015,69.9,15.3
+Finland,2015,81.1,17
+France,2015,82.4,16.3
+Gabon,2015,66,12.6
+Gambia,2015,61.1,8.9
+Georgia,2015,74.4,13.9
+Germany,2015,81,17.1
+Ghana,2015,62.4,11.4
+Greece,2015,81,17.2
+Grenada,2015,73.6,15.8
+Guatemala,2015,71.9,10.7
+Guinea,2015,59,8.8
+Guinea-Bissau,2015,58.9,9.2
+Guyana,2015,66.2,10.3
+Haiti,2015,63.5,9.1
+Honduras,2015,74.6,11.2
+Hungary,2015,75.8,15.6
+Iceland,2015,82.7,19
+India,2015,68.3,11.6
+Indonesia,2015,69.1,12.9
+Iran (Islamic Republic of),2015,75.5,14.8
+Iraq,2015,68.9,10.1
+Ireland,2015,81.4,18.6
+Israel,2015,82.5,16
+Italy,2015,82.7,16.3
+Jamaica,2015,76.2,12.8
+Japan,2015,83.7,15.3
+Jordan,2015,74.1,13.1
+Kazakhstan,2015,72,15
+Kenya,2015,63.4,11.1
+Kiribati,2015,66.3,11.9
+Kuwait,2015,74.7,13.3
+Kyrgyzstan,2015,71.1,13
+Lao People's Democratic Republic,2015,65.7,10.8
+Latvia,2015,74.6,16
+Lebanon,2015,74.9,13.3
+Lesotho,2015,53.7,10.7
+Liberia,2015,61.4,9.9
+Libya,2015,72.7,13.4
+Lithuania,2015,73.6,16.5
+Luxembourg,2015,82,13.9
+Madagascar,2015,65.5,10.3
+Malawi,2015,58.3,10.8
+Malaysia,2015,75,13.1
+Maldives,2015,78.5,12.7
+Mali,2015,58.2,8.4
+Malta,2015,81.7,14.6
+Mauritania,2015,63.1,8.5
+Mauritius,2015,74.6,15.2
+Mexico,2015,76.7,13.3
+Micronesia (Federated States of),2015,69.4,11.7
+Mongolia,2015,68.8,14.8
+Montenegro,2015,76.1,15.1
+Morocco,2015,74.3,12.1
+Mozambique,2015,57.6,9.1
+Myanmar,2015,66.6,9.1
+Namibia,2015,65.8,11.7
+Nepal,2015,69.2,12.2
+Netherlands,2015,81.9,18.1
+New Zealand,2015,81.6,19.2
+Nicaragua,2015,74.8,11.7
+Niger,2015,61.8,5.4
+Nigeria,2015,54.5,10
+Norway,2015,81.8,17.7
+Oman,2015,76.6,13.7
+Pakistan,2015,66.4,8.1
+Panama,2015,77.8,13
+Papua New Guinea,2015,62.9,10
+Paraguay,2015,74,12.3
+Peru,2015,75.5,13.4
+Philippines,2015,68.5,11.7
+Poland,2015,77.5,16.4
+Portugal,2015,81.1,16.6
+Qatar,2015,78.2,13.4
+Republic of Korea,2015,82.3,
+Republic of Moldova,2015,72.1,
+Romania,2015,75,14.7
+Russian Federation,2015,75,15
+Rwanda,2015,66.1,10.8
+Saint Lucia,2015,75.2,13.1
+Saint Vincent and the Grenadines,2015,73.2,13.3
+Samoa,2015,74,12.9
+Sao Tome and Principe,2015,67.5,11.2
+Saudi Arabia,2015,74.5,16.1
+Senegal,2015,66.7,9.5
+Serbia,2015,75.6,14.4
+Seychelles,2015,73.2,14.1
+Sierra Leone,2015,51,9.5
+Singapore,2015,83.1,15.4
+Slovakia,2015,76.7,15
+Slovenia,2015,88,17.3
+Solomon Islands,2015,69.2,9.6
+Somalia,2015,55,
+South Africa,2015,62.9,13
+South Sudan,2015,57.3,4.9
+Spain,2015,82.8,17.7
+Sri Lanka,2015,74.9,14
+Sudan,2015,64.1,7.2
+Suriname,2015,71.6,12.7
+Swaziland,2015,58.9,11.4
+Sweden,2015,82.4,15.9
+Switzerland,2015,83.4,16
+Syrian Arab Republic,2015,64.5,9
+Tajikistan,2015,69.7,11.3
+Thailand,2015,74.9,13.6
+The former Yugoslav republic of Macedonia,2015,75.7,12.9
+Timor-Leste,2015,68.3,12.5
+Togo,2015,59.9,12
+Tonga,2015,73.5,14.3
+Trinidad and Tobago,2015,71.2,12.7
+Tunisia,2015,75.3,14.6
+Turkey,2015,75.8,14.5
+Turkmenistan,2015,66.3,10.8
+Uganda,2015,62.3,10
+Ukraine,2015,71.3,15.3
+United Arab Emirates,2015,77.1,13.3
+United Kingdom of Great Britain and Northern Ireland,2015,81.2,
+United Republic of Tanzania,2015,61.8,
+United States of America,2015,79.3,
+Uruguay,2015,77,15.5
+Uzbekistan,2015,69.4,12.1
+Vanuatu,2015,72,10.8
+Venezuela (Bolivarian Republic of),2015,74.1,14.3
+Viet Nam,2015,76,12.6
+Yemen,2015,65.7,9
+Zambia,2015,61.8,12.5
+Zimbabwe,2015,67,10.3
